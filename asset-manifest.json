@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.0292670e.js",
+    "main.js": "/static/js/main.bf823a53.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/Abdulrahman_Al_Muaitah_Updated_Resume_Revision_7.pdf": "/static/media/Abdulrahman_Al_Muaitah_Updated_Resume_Revision_7.1fd330a37fcb6560f7fe.pdf",
     "static/media/1676324230788.jpeg": "/static/media/1676324230788.be199398ab72d38cc388.jpeg",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.0292670e.js.map": "/static/js/main.0292670e.js.map",
+    "main.bf823a53.js.map": "/static/js/main.bf823a53.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.0292670e.js"
+    "static/js/main.bf823a53.js"
   ]
 }
